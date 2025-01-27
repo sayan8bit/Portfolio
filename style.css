@@ -139,8 +139,10 @@ body {
   color: white;
   /* background: linear-gradient(white, rgb(0, 0, 0,0.5)); */
   background-color: rgb(0, 0, 0);
-  width: 100%;
-  height: auto;
+  width: 100vw;
+/*   height: auto;
+   */
+  height: 100vh;
   display: flex;
   flex-direction: column;
 }
